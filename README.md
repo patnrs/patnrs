@@ -13,7 +13,7 @@
 ## :computer:	Position
 - Computer Teacher at [Triamudomsuksa Pattanakarn](https://www.tup.ac.th/) 
 
-## 🧑‍💻:
+## 🧑‍💻: Interests
 - Software Design and Development
 - Linux
 - Artificial Intelligence
